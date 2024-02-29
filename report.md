@@ -45,10 +45,12 @@ Load indices for training, validation and testing sets. (03_stratified....)
 
 ### Key points
 - Discard sub eegs with more than 2 NaN rows. (indices: data/02_eegs_sub_50_idxs_less_3_nan.npy)
-
+- Using observations where all sub eegs have the same voting probs. Needs further work for discrepancies.
 
 ## Runs
 
 ### Keras 10.ipynb
+
+
 
 Spectrograms using only F3 and F4 in two channels.
