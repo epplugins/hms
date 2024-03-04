@@ -76,6 +76,13 @@ https://swharden.com/blog/2020-09-23-signal-filtering-in-python/
 https://www.learningeeg.com/epileptiform-activity  
 
 
+wavelets:  
+https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/  
+https://pywavelets.readthedocs.io/en/latest/  
+
+
+
+
 ## Environments
 
 1. gsdc
@@ -93,6 +100,8 @@ https://www.learningeeg.com/epileptiform-activity
     ``conda install -n pyemd -c conda-forge numpy pandas scipy matplotlib ipykernel``  
     ``conda activate pyemd``  
     ``pip install EMD-signal``  
+
+
 ## References
 
 CEEMD and XGBoost:  
@@ -111,8 +120,11 @@ https://pyemd.readthedocs.io/en/latest/intro.html
   doi = {10.5281/zenodo.5459184}
 }``
 
+pyWavelets  
+Gregory R. Lee, Ralf Gommers, Filip Wasilewski, Kai Wohlfahrt, Aaron O’Leary (2019). PyWavelets: A Python package for wavelet analysis. Journal of Open Source Software, 4(36), 1237, https://doi.org/10.21105/joss.01237.  
+
+
+
 
 ## Download
 
-Adeli, H., Zhou, Z., & Dadmehr, N. (2003). Analysis of EEG records in
-an epileptic patient using wavelet transform
