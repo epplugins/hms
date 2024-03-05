@@ -24,6 +24,7 @@ https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
 - Normalization, yes or no? Batchnormalization layer is needed in CNN.
 - Rounding predictions. I'm rounding at 3 decimals, how many decimals is ok?
 - Reshaping numpy: check this step, maybe some tests with other images.
+- banana montage: banda pass before or after subtraction?
 
 ## Pipeline
 
