@@ -1,0 +1,3 @@
+Cosas que estoy cambiando:
+
+np.int16(item[2])  --> np.int32(item[2])
