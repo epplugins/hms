@@ -81,8 +81,8 @@ wavelets:
 https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/  
 https://pywavelets.readthedocs.io/en/latest/  
 
-
-
+checkpoint, resuming training:  
+https://pyimagesearch.com/2019/09/23/keras-starting-stopping-and-resuming-training/
 
 ## Environments
 
