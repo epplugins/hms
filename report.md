@@ -43,6 +43,10 @@ keras/03_stratified.ipynb
 Keras:  
 Load indices for training, validation and testing sets. (03_stratified....)
 
+Time for preprocessing 292 eegs, cwt: 225 s.  
+There are between 2000 and 3500 eegs in LB test set, expect around 2300 s for preprocessing in LB.  
+
+
 ### Key points
 - Discard sub eegs with more than 2 NaN rows. (indices: data/02_eegs_sub_50_idxs_less_3_nan.npy)
 - Using observations where all sub eegs have the same voting probs. Needs further work for discrepancies.
