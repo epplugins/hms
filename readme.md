@@ -84,6 +84,12 @@ https://pywavelets.readthedocs.io/en/latest/
 checkpoint, resuming training:  
 https://pyimagesearch.com/2019/09/23/keras-starting-stopping-and-resuming-training/
 
+Keras tuner:  
+https://github.com/keras-team/keras-io/blob/master/guides/keras_tuner/getting_started.py  
+https://keras.io/guides/keras_tuner/getting_started/  
+https://www.tensorflow.org/tutorials/keras/keras_tuner  
+
+
 ## Environments
 
 1. gsdc
