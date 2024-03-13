@@ -96,6 +96,8 @@ https://www.tensorflow.org/tutorials/keras/keras_tuner
 
     Versions on Kaggle.
 
+    pywt keras-tuner
+
 1. latest
 
     Updated
