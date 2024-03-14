@@ -1,4 +1,7 @@
 14 mar 2024
 Run: 10686.5s - GPU T4 x2
 
-TODO: increase number of epochs in retrain model.
+TODO: 
+- increase number of epochs in retrain model.
+- Add the query for best epoch.
+- fix number of observations when loading data in generators.
