@@ -7,7 +7,7 @@ https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
 ## TODO
 
 - LB probing: Count number of NaN rows in 10 seconds samples. Submit different predictions for observations with high number of NaN rows, to probe if there are some.
-
+- LSTM
 - Train/Val split: 
     - Reduce overrepresentation: target repeated many times in the same eeg. Perhaps reduce the number of observations to get a balanced dataset.
     - Unanimous consensus.
@@ -76,6 +76,8 @@ https://swharden.com/blog/2020-09-23-signal-filtering-in-python/
 
 https://www.learningeeg.com/epileptiform-activity  
 
+LSTM  
+https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 
 wavelets:  
 https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/  
